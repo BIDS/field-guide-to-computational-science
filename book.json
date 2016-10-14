@@ -1,0 +1,7 @@
+{
+    "root": "book",
+    "structure": {
+        "readme": "introduction.md",
+        "summary": "table_of_contents.md"
+    }
+}
